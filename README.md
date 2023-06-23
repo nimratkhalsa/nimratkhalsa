@@ -1,8 +1,7 @@
 # 💫 About Me:
+<img src="https://github.com/nimratkhalsa/nimratkhalsa/assets/103124850/2dd67b81-fe06-498a-80c4-6411a83b8855" align="right" alt="profilepic" width="300" height="300">
 Greetings! I'm a passionate SwiftUI developer specializing in creating <br>amazing iOS apps. With a knack for crafting intuitive interfaces <br>and seamless user experiences.<br><br>I'm all about crafting captivating iOS apps that harmonize user <br>experiences like a melodious symphony. When I'm not engrossed <br>in code, you'll find me on the cricket field, channeling my passion <br>into powerful drives and precision shots.
 
-
-![geeconglobalbanner1ptimize](https://github.com/nimratkhalsa/nimratkhalsa/assets/103124850/c63d329b-38ae-48b4-a711-19f58cc9ccc7)
 
 
 
